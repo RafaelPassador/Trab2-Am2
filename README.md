@@ -3,7 +3,7 @@ Avaliação Experimental Comparativa da Robustez de Algoritmos de Classificaçã
 
 A partir da utilização de dados estruturados será realizada a classificação binária para comparação de quatro algoritmos que já têm implementação pronta, uma ou seja, uma avaliação experimental comparativa da robustez dos algoritmos escolhidos. 
 
-Dessa forma, sera comparado a eficácia de classificação de algoritimos baseados em redes neurais (BERT e RoBERTa) e algoritimos tradicionais (Naive-Bayes e SVM)  Dessa forma, para realização desta tarefa,[Fake and real news dataset](https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset) 
+Dessa forma, sera comparado a eficácia de classificação de algoritimos baseados em redes neurais (BERT e RoBERTa) e algoritimos tradicionais (Naive-Bayes e SVM)  Dessa forma, para realização desta tarefa, utilizou-se de um dataset do kaggle, sendo ele o [Fake and real news dataset](https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset).
 
 Assim sendo, serão apresentados os códigos, bem como as descrições das funções e resultados obtidos. Ademais, apresentam-se, também, as interpretações e documentações do problema.  
 
