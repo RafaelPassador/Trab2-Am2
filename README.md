@@ -9,7 +9,7 @@ Assim sendo, serão apresentados os códigos, bem como as descrições das funç
 
 ### Colab:  https://colab.research.google.com/drive/1995Zdgl6GnLq6lv_68F8OAvDI6boCXYF?authuser=1#scrollTo=BNUy4R0qD6qU
 
-### NB viewer:  
+### NB viewer: https://nbviewer.org/github/RafaelPassador/Trab2-Am2/blob/main/Am2_Trab2.ipynb 
 
 ### Assista à nossa apresentação à seguir:    
 
