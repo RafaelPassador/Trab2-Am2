@@ -17,5 +17,5 @@ Assim sendo, serão apresentados os códigos, bem como as descrições das funç
 * Júlia Aparecida Sousa de Oliveira    - RA: 769707 
 * Igor Teixeira Machado                - RA: 769708
 * Rafael Vinicius Polato Passador      - RA: 790036   
-* 
+ 
 * ### Professor: Prof. Dr. Diego Furtado Silva  [2021/2 ENPE] Aprendizado de Máquina 2 - Trabalho Prático 2
