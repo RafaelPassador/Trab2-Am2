@@ -11,7 +11,7 @@ Assim sendo, serão apresentados os códigos, bem como as descrições das funç
 
 ### NB viewer: https://nbviewer.org/github/RafaelPassador/Trab2-Am2/blob/main/Am2_Trab2.ipynb 
 
-### Assista à nossa apresentação à seguir:    
+### Assista à nossa apresentação à seguir: https://drive.google.com/file/d/1Vf45vc85JHoZEWwKos_2VpiCYQki6nYR/view?usp=sharing
 
 ### Equipe:
 * Júlia Aparecida Sousa de Oliveira    - RA: 769707 
