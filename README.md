@@ -7,7 +7,7 @@ Dessa forma, sera comparado a eficácia de classificação de algoritimos basead
 
 Assim sendo, serão apresentados os códigos, bem como as descrições das funções e resultados obtidos. Ademais, apresentam-se, também, as interpretações e documentações do problema.  
 
-### Colab:  
+### Colab:  https://colab.research.google.com/drive/1995Zdgl6GnLq6lv_68F8OAvDI6boCXYF?authuser=1#scrollTo=BNUy4R0qD6qU
 
 ### NB viewer:  
 
